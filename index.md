@@ -72,6 +72,14 @@ Ein kleiner, entspannter Hafen. Wir blieben an Bord, genossen aber die Ruhe und 
 
 Ich ging allein an Land, besuchte eine Apotheke und einen Supermarkt. Alles war gut zu Fuß erreichbar und barrierearm. Die Strasse, gleich hinter dem Terminal ist schnell zu Fuß zu erreichen und mit kleinen Strassencafés geschmückt.
 
+![Dubrovnik](Dubrovnik1.jpg)
+
+![Dubrovnik](Dubrovnik2.jpg)
+
+![Dubrovnik](Dubrovnik3.jpg)
+
+![Dubrovnik](Dubrovnik4.jpg)
+
 #### Zadar
 
 Ursprünglich war Split geplant, aber wegen Wind ging es nach Zadar. Die Decks wurden gesperrt, Stühle rutschten auf dem Balkon herum. Aber niemand von uns hatte Angst. Wir wurden eher ein bisschen in den Schlaf geschaukelt. Als Highlight tauchten plötzlich drei Delfine auf. Kein Foto, aber ein perfekter Moment.
