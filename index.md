@@ -46,6 +46,12 @@ Wir verließen das Schiff nicht, beobachteten aber das Hafenleben vom Balkon. Ei
 
 Die spektakuläre Einfahrt in die Bucht von Kotor war atemberaubend. Die Altstadt mit den roten Dächern und der orthodoxen Kirche war vom Schiff aus gut zu erkennen.
 
+![Kotor](Kotor1.jpg)
+
+![Kotor](Kotor2.jpg)
+
+![Kotor](Kotor3.jpg)
+
 #### Korfu
 
 Die Insel wirkte sonnig und freundlich. Vom Deck aus beobachteten wir das bunte Treiben, ein Tragflügelboot rauschte vorbei.
