@@ -12,7 +12,7 @@ Statt direkt vom Zug aufs Schiff zu hetzen, haben wir bewusst eine Übernachtung
 
 Der Shuttle von Shuttle Direct holte uns am nächsten Morgen pünktlich ab. Die Koffer hatten wir per BagExpress vorausgeschickt. Anfangs waren wir nervös, doch der Kundendienst beruhigte uns schnell. Auf dem Schiff tauchten die Koffer wie versprochen pünktlich auf.
 
-Dank der Anmeldung eines Rollstuhlsvwurden wir bevorzugt eingeschifft. Kein Gedränge, keine Hektik. Die Crew war aufmerksam und herzlich.
+Dank der Anmeldung eines Rollstuhls wurden wir bevorzugt eingeschifft. Kein Gedränge, keine Hektik. Die Crew war aufmerksam und herzlich.
 
 ![Venedig](VenedigHinfahrt(1).jpeg)
 
