@@ -14,7 +14,7 @@ Der Shuttle von Shuttle Direct holte uns am nächsten Morgen pünktlich ab. Die 
 
 Dank der Anmeldung eines Rollstuhlsvwurden wir bevorzugt eingeschifft. Kein Gedränge, keine Hektik. Die Crew war aufmerksam und herzlich.
 
-! [Venedig] (VenedigHinfahrt(1).jpeg
+![Venedig](VenedigHinfahrt(1).jpeg)
 
 ## **Kapitel 3:** Alltag an Bord
 
