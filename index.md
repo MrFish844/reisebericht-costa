@@ -56,6 +56,12 @@ Die spektakuläre Einfahrt in die Bucht von Kotor war atemberaubend. Die Altstad
 
 Die Insel wirkte sonnig und freundlich. Vom Deck aus beobachteten wir das bunte Treiben, ein Tragflügelboot rauschte vorbei.
 
+![Korfu](Korfu1.jpg)
+
+![Korfu](Korfu2.jpg)
+
+![Korfu](Korfu3.jpg)
+
 #### Katakolon
 
 Ein kleiner, entspannter Hafen. Wir blieben an Bord, genossen aber die Ruhe und den Blick auf die griechische Küste.
