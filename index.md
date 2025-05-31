@@ -66,6 +66,8 @@ Die Insel wirkte sonnig und freundlich. Vom Deck aus beobachteten wir das bunte 
 
 Ein kleiner, entspannter Hafen. Wir blieben an Bord, genossen aber die Ruhe und den Blick auf die griechische Küste.
 
+![Katakolon](Katakolon.jpg)
+
 #### Dubrovnik
 
 Ich ging allein an Land, besuchte eine Apotheke und einen Supermarkt. Alles war gut zu Fuß erreichbar und barrierearm. Die Strasse, gleich hinter dem Terminal ist schnell zu Fuß zu erreichen und mit kleinen Strassencafés geschmückt.
