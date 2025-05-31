@@ -127,3 +127,8 @@ Die Zugstrecke München–Venedig Mestre war erfreulich barrierearm: In beiden B
 Nicht verpassen!
 
 Ein echter Gänsehautmoment: Wenn die Piloten im Hafen bei voller Fahrt vom kleinen Lotsenboot auf das Kreuzfahrtschiff übersetzen. Wer die Augen offen hält, kann mit etwas Glück dieses Kunststück beobachten.
+
+
+### Ein persönliches Wort zum Schluss
+
+Ohne den Hinweis der Physiotherapeutin, die meine Freundin betreut, wäre ich nicht auf die Idee gekommen, solch einen Reisebericht zu verfassen. Ich hoffe, ich unterstütze ihre Idee damit, Menschen den Mut zu machen, so eine Reise trotz Einschränkungen zu unternehmen.
