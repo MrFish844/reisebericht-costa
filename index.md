@@ -2,7 +2,7 @@
 
 ## **Kapitel 1:** Warum wir diese Reise gemacht haben
 
-Es war nicht unsere erste Kreuzfahrt – aber sie fühlte sich an wie die erste richtige. Nicht nur, weil diesmal alles klappte. Sondern weil wir wussten, worauf es wirklich ankommt.
+Es war nicht die erste Kreuzfahrt für meine Freundin und mich, aber dier erste für meine Mutter. Sie fühlte sich richtig an. Nicht nur, weil diesmal alles klappte. Sondern weil wir wussten, worauf es wirklich ankommt.
 
 Meine Mutter hatte eine große Operation hinter sich, meine Partnerin ist auf den Rollstuhl angewiesen – und wir alle hatten uns eine Auszeit verdient. Frische Seeluft, neue Eindrücke, ein bisschen Freiheit, die man nicht planen kann.
 
