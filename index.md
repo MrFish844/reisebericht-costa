@@ -16,6 +16,10 @@ Dank der Anmeldung eines Rollstuhls wurden wir bevorzugt eingeschifft. Kein Gedr
 
 ![Venedig](VenedigHinfahrt1.jpeg)
 
+![Venedig](VenedigHinfahrt2.jpeg)
+
+![Venedig](VenedigHinfahrt3.jpeg)
+
 ## **Kapitel 3:** Alltag an Bord
 
 Unsere Suite war geräumig, der Balkon schnell unser Lieblingsort. Während ich die Seeluft genoss, suchte meine Mutter mit dem Fernglas nach Inseln. Die Dusche war ebenerdig und mit allem ausgestattet, was man für eine kleine Spa-Auszeit braucht.
