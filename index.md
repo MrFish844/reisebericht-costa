@@ -36,11 +36,11 @@ Die Pizzeria bot hervorragende Pizza, und an der Aperol-Spritz-Bar am Heck ließ
 
 Wir verließen das Schiff nicht, beobachteten aber das Hafenleben vom Balkon. Ein ruhiger, vielversprechender Auftakt.
 
-![Bari](Bari1.jpeg)
+![Bari](Bari1.jpg)
 
-![Bari](Bari2.jpeg)
+![Bari](Bari2.JPG)
 
-![Bari](Bari3.jpeg)
+![Bari](Bari3.jpg)
 
 #### Kotor
 
