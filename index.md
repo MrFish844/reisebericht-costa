@@ -1,64 +1,64 @@
-Mit dem Rollstuhl aufs Meer – Unsere Reise mit der Costa Deliziosa
+# **Mit dem Rollstuhl aufs Meer** – Unsere Reise mit der Costa Deliziosa
 
-Kapitel 1: Warum wir diese Reise gemacht haben
+## **Kapitel 1:** Warum wir diese Reise gemacht haben
 
 Es war nicht unsere erste Kreuzfahrt – aber sie fühlte sich an wie die erste richtige. Nicht nur, weil diesmal alles klappte. Sondern weil wir wussten, worauf es wirklich ankommt.
 
 Meine Mutter hatte eine große Operation hinter sich, meine Partnerin ist auf den Rollstuhl angewiesen – und wir alle hatten uns eine Auszeit verdient. Frische Seeluft, neue Eindrücke, ein bisschen Freiheit, die man nicht planen kann.
 
-Kapitel 2: Anreise & Einschiffung
+## **Kapitel 2:** Anreise & Einschiffung
 
-Statt direkt vom Zug aufs Schiff zu hetzen, haben wir bewusst eine Übernachtung eingeplant – als Zeitpuffer, zum Durchatmen, und um den Reisestress vor dem Einschiffen gering zu halten. Unsere Wahl fiel auf das Meininger Hotel in Mestre, das sich als echter Glücksgriff erwies: Als das Personal den Rollstuhl sah, bekamen wir sofort und ohne Aufpreis ein barrierefreies Zimmer. Als eine Mitarbeiterin an der Rezeption zur Musik tanzte und sich verlegen bei mir entschuldigte, habe ich einfach mitgetanzt. So begann der Urlaub mit einem Lächeln.
+Statt direkt vom Zug aufs Schiff zu hetzen, haben wir bewusst eine Übernachtung eingeplant – als Zeitpuffer, zum Durchatmen, und um den Reisestress vor dem Einschiffen gering zu halten. Unsere Wahl fiel auf das Meininger Hotel in Mestre, das sich als echter Glücksgriff erwies: Als das Personal den Rollstuhl sah, bekamen wir sofort und ohne Aufpreis ein barrierefreies Zimmer. Als eine Mitarbeiterin an der Rezeption zur Musik tanzte war der Urlaub eingeleitet. So begann der Urlaub mit einem Lächeln.
 
 Der Shuttle von Shuttle Direct holte uns am nächsten Morgen pünktlich ab. Die Koffer hatten wir per BagExpress vorausgeschickt. Anfangs waren wir nervös, doch der Kundendienst beruhigte uns schnell. Auf dem Schiff tauchten die Koffer wie versprochen pünktlich auf.
 
-Dank des Mobilitätsservices wurden wir bevorzugt eingeschifft. Kein Gedränge, keine Hektik. Die Crew war aufmerksam und herzlich.
+Dank der Anmeldung eines Rollstuhlsvwurden wir bevorzugt eingeschifft. Kein Gedränge, keine Hektik. Die Crew war aufmerksam und herzlich.
 
-Kapitel 3: Alltag an Bord
+## **Kapitel 3:** Alltag an Bord
 
-Unsere Suite war geräumig, der Balkon schnell unser Lieblingsort. Während ich die Seeluft genoss, suchte meine Mutter mit dem Fernglas nach Delfinen. Die Dusche war ebenerdig und mit allem ausgestattet, was man für eine kleine Spa-Auszeit braucht.
+Unsere Suite war geräumig, der Balkon schnell unser Lieblingsort. Während ich die Seeluft genoss, suchte meine Mutter mit dem Fernglas nach Inseln. Die Dusche war ebenerdig und mit allem ausgestattet, was man für eine kleine Spa-Auszeit braucht.
 
-Unser Butler Mike hatte schnell raus, dass ich abends gerne ein "Schlafbierchen" trinke. Manchmal hinterließ er mir eines in der Minibar. Als ich den Rollator meiner Mutter als Stuhl zweckentfremdete, brachte er kurzerhand einen dritten Balkonstuhl.
+Mike vom Kabinenpertsonal hatte schnell raus, dass ich abends gerne ein "Schlafbierchen" auf dem Balkon trank. Manchmal hinterließ er mir eines in der Minibar. Als ich den Rollator meiner Mutter als Stuhl zweckentfremdete, brachte er kurzerhand einen dritten Balkonstuhl.
 
-Wir mieden das Elite-Restaurant und zogen das Buffet vor. Besonders praktisch: Wenn meine Freundin mit dem Rollstuhl allein unterwegs war, half sofort jemand beim Tablett.
+Wir mieden das Elite-Restaurant und zogen das Buffet vor. Besonders praktisch: Wenn meine Freundin mit dem Rollstuhl allein unterwegs war, half sofort jemand beim Tablett. Wer auf Luxus steht, sollte sich das Elite-Retsaurant nicht entgehen lassen. Wir bevorzugten aber die Abwechslung und das wuselige Ambiente am Buffet.
 
 Die Pizzeria bot hervorragende Pizza, und an der Aperol-Spritz-Bar am Heck ließ es sich gut entspannen. Dank unseres "My Drinks Plus"-Pakets wurde uns nie etwas berechnet – vermutlich auch ein Vorteil der Suite-Buchung, inklusive kostenloser Minibar.
 
-Kapitel 4: Unsere Häfen
+## **Kapitel 4:** Unsere Häfen
 
-Bari
+#### Bari
 
 Wir verließen das Schiff nicht, beobachteten aber das Hafenleben vom Balkon. Ein ruhiger, vielversprechender Auftakt.
 
-Kotor
+#### Kotor
 
 Die spektakuläre Einfahrt in die Bucht von Kotor war atemberaubend. Die Altstadt mit den roten Dächern und der orthodoxen Kirche war vom Schiff aus gut zu erkennen.
 
-Korfu
+#### Korfu
 
 Die Insel wirkte sonnig und freundlich. Vom Deck aus beobachteten wir das bunte Treiben, ein Tragflügelboot rauschte vorbei.
 
-Katakolon
+#### Katakolon
 
 Ein kleiner, entspannter Hafen. Wir blieben an Bord, genossen aber die Ruhe und den Blick auf die griechische Küste.
 
-Dubrovnik
+#### Dubrovnik
 
-Ich ging allein an Land, besuchte eine Apotheke und einen Supermarkt. Alles war gut zu Fuß erreichbar und barrierearm.
+Ich ging allein an Land, besuchte eine Apotheke und einen Supermarkt. Alles war gut zu Fuß erreichbar und barrierearm. Die Strasse, gleich hinter dem Terminal ist schnell zu Fuß zu erreichen und mit kleinen Strassencafés geschmückt.
 
-Zadar
+#### Zadar
 
-Ursprünglich war Split geplant, aber wegen Wind ging es nach Zadar. Die Decks wurden gesperrt, Stühle flogen. Niemand hatte Angst. Als Highlight tauchten plötzlich drei Delfine auf. Kein Foto, aber ein perfekter Moment.
+Ursprünglich war Split geplant, aber wegen Wind ging es nach Zadar. Die Decks wurden gesperrt, Stühle rutschten auf dem Balkon herum. Aber niemand von uns hatte Angst. Wir wurden eher ein bisschen in den Schlaf geschaukelt. Als Highlight tauchten plötzlich drei Delfine auf. Kein Foto, aber ein perfekter Moment.
 
-Venedig (Rückkehr)
+#### Venedig (Rückkehr)
 
-Ah, Venedig. Die Ankunft hatte etwas Wehmütiges. Wir blieben noch einen Moment an Deck und ließen die Reise Revue passieren.
+Ah, Venedig. Die Ankunft hatte etwas Wehmütiges. Wir blieben noch einen Moment an Deck und ließen die Reise Revue passieren. Natürlich gönnten wir uns noch eine Nacht im Meininger Hotel.
 
-Rückfahrt nach München
+#### Rückfahrt nach München
 
-Im Zug nach Hause schauten wir aus dem Fenster, müde, aber zufrieden. Die Bilder waren vielleicht nicht perfekt, aber sie spiegelten die Stimmung wider: ruhig, nachdenklich, dankbar.
+Im Zug nach Hause schauten wir aus dem Fenster, müde, aber zufrieden. 
 
-Fazit: Eine Reise voller gemeinsamer Entdeckungen
+## Fazit: Eine Reise voller gemeinsamer Entdeckungen
 
 Wir haben es geschafft – als Familie, als Team. Es war nicht immer planbar, aber erstaunlich viel war machbar. Die gute Vorbereitung hat sich gelohnt. Und manchmal auch das Vertrauen darauf, dass sich Dinge einfach fügen.
 
