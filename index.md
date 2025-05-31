@@ -36,6 +36,12 @@ Die Pizzeria bot hervorragende Pizza, und an der Aperol-Spritz-Bar am Heck ließ
 
 Wir verließen das Schiff nicht, beobachteten aber das Hafenleben vom Balkon. Ein ruhiger, vielversprechender Auftakt.
 
+![Bari](Bari1.jpeg)
+
+![Bari](Bari2.jpeg)
+
+![Bari](Bari3.jpeg)
+
 #### Kotor
 
 Die spektakuläre Einfahrt in die Bucht von Kotor war atemberaubend. Die Altstadt mit den roten Dächern und der orthodoxen Kirche war vom Schiff aus gut zu erkennen.
