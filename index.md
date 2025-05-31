@@ -94,9 +94,21 @@ Ursprünglich war Split geplant, aber wegen Wind ging es nach Zadar. Die Decks w
 
 Ah, Venedig. Die Ankunft hatte etwas Wehmütiges. Wir blieben noch einen Moment an Deck und ließen die Reise Revue passieren. Natürlich gönnten wir uns noch eine Nacht im Meininger Hotel.
 
+![Heimfahrt Venedig](VenedigHeim1.jpg)
+
+![Heimfahrt Venedig](VenedigHeim2.jpg)
+
+![Heimfahrt Venedig](VenedigHeim3.jpg)
+
 #### Rückfahrt nach München
 
 Im Zug nach Hause schauten wir aus dem Fenster, müde, aber zufrieden. 
+
+![Heimfahrt nach München](VenedigHeim4.jpg)
+
+![Heimfahrt nach München](VenedigHeim5.jpg)
+
+![Heimfahrt nach München](VenedigHeim7.jpg)
 
 ## Fazit: Eine Reise voller gemeinsamer Entdeckungen
 
