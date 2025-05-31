@@ -84,6 +84,12 @@ Ich ging allein an Land, besuchte eine Apotheke und einen Supermarkt. Alles war 
 
 Ursprünglich war Split geplant, aber wegen Wind ging es nach Zadar. Die Decks wurden gesperrt, Stühle rutschten auf dem Balkon herum. Aber niemand von uns hatte Angst. Wir wurden eher ein bisschen in den Schlaf geschaukelt. Als Highlight tauchten plötzlich drei Delfine auf. Kein Foto, aber ein perfekter Moment.
 
+![Zadar](Zadar1.jpg)
+
+![Zadar](Zadar2.jpg)
+
+![Zadar](Zadar3.jpg)
+
 #### Venedig (Rückkehr)
 
 Ah, Venedig. Die Ankunft hatte etwas Wehmütiges. Wir blieben noch einen Moment an Deck und ließen die Reise Revue passieren. Natürlich gönnten wir uns noch eine Nacht im Meininger Hotel.
