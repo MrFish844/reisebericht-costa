@@ -115,9 +115,9 @@ Im Zug nach Hause schauten wir aus dem Fenster, müde, aber zufrieden.
 Wir haben es geschafft – als Familie, als Team. Es war nicht immer planbar, aber erstaunlich viel war machbar. Die gute Vorbereitung hat sich gelohnt. Und manchmal auch das Vertrauen darauf, dass sich Dinge einfach fügen.
 
 **Warum dieser Bericht?**
-Wir möchten mit diesem Bericht Mut machen: für Menschen, die mit Mobolitätseinschränkingen leben, oder Angehörige begleiten.
+Wir möchten mit diesem Bericht Mut machen: für Menschen, die mit Mobilitätseinschränkingen leben, oder Angehörige begleiten.
 Die Planung war nicht immer einfach - aber das Meer war jede Mühe wert.
-Vielleicht hilft dir unser Erfahrungsbericht, deine eigene Reise ein bisschen leichter zu gestalten-
+Vielleicht hilft dir unser Erfahrungsbericht, deine eigene Reise ein bisschen leichter zu gestalten.
 Ich werde diesen Bericht noch um Nützliche Informationen zur Organisation einer solchen Reise erweitern.
 
 Tipp zur Barrierefreiheit
