@@ -203,7 +203,7 @@ Wenn dich die Reise reizt: Trau dich! Vielleicht ist dein Weg ein anderer, aber 
 
 <section id="kontakt" style="max-width: 600px; margin: 3em auto; font-family: sans-serif;">
   <p style="margin-bottom: 1em;">
-    Du planst eine ähnliche Reise und hast noch offene Fragen? Ich helfe gerne weiter, wenn ich kann – bitte hab Verständnis, dass ich das <strong>privat</strong> mache und nicht jede Frage sofort beantworten kann.  
+    Du planst eine ähnliche Reise und hast noch offene Fragen? Ich helfe gerne weiter, wenn ich kann – bitte hab Verständnis, dass ich das <strong>privat</strong> mache und nicht jede Frage sofort und absolut korrekt beantworten kann.  
     <br><strong>Bitte nutze das Formular nur für ernstgemeinte Anfragen.</strong>
   </p>
 </section>
