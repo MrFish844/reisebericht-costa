@@ -135,4 +135,24 @@ Ich danke, der Physiotherapeutin, die so herzlich meine Freundin betreut. Ohne s
 Reisebericht zu verfassen und zu veröffentlichen.
 
 
-➡️ [Zur Galerie](./galerie.html)
+<a href="galerie.html" style="
+  display: block;
+  max-width: 600px;
+  margin: 2em auto;
+  text-decoration: none;
+  color: inherit;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+  transition: transform 0.2s ease;
+">
+  <div style="
+    background-image: url('bilder/Dubrovnik2.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+  "></div>
+  <div style="padding: 1em; background: white; text-align: center; font-weight: bold;">
+    📸 Bildergalerie öffnen
+  </div>
+</a>
