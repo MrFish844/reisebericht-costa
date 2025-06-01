@@ -135,4 +135,31 @@ Ich danke, der Physiotherapeutin, die so herzlich meine Freundin betreut. Ohne s
 Reisebericht zu verfassen und zu veröffentlichen.
 
 
+<h2>FAQ zur Reiseplanung</h2>
+
+<details>
+  <summary><strong>Wie funktioniert der Gepäcktransport mit Bag Express?</strong></summary>
+  <p>Bag Express lässt sich bequem online buchen. Das Gepäck wird per UPS direkt zu Hause abgeholt und am Ende der Reise wieder bis zur Haustür geliefert.</p>
+</details>
+
+<details>
+  <summary><strong>Wie haben wir die Zugreise und Einstiegshilfen organisiert?</strong></summary>
+  <p>Die Sitzplätze im Railjet haben wir direkt über die ÖBB gebucht. Die Einstiegshilfe in München wurde über die Deutsche Bahn organisiert, die Einstiegshilfe in Venedig über <em>Salablu</em>.</p>
+</details>
+
+<details>
+  <summary><strong>Wie meldet man einen Rollstuhl oder Rollator bei Costa an?</strong></summary>
+  <p>Unbedingt frühzeitig direkt bei Costa oder über das Reisebüro die Formulare zur Anmeldung anfordern und einreichen – das erleichtert alles Weitere enorm.</p>
+</details>
+
+<details>
+  <summary><strong>Wie kommt man am besten zum Kreuzfahrtterminal in Venedig?</strong></summary>
+  <p>Wir empfehlen den Start vom Bahnhof Mestre. Von dort gibt es barrierefreie Transfers (z. B. über Shuttle Direct), die einen direkt bis zum Terminal bringen. Die Anreise von Santa Lucia aus ist für Rollstuhlfahrer komplizierter, da man den Canal Grande überqueren müsste.</p>
+</details>
+
+<details>
+  <summary><strong>Wie lief unser Transfer mit Shuttle Direct ab?</strong></summary>
+  <p>Der Fahrer holte uns am Meininger Hotel in Mestre ab und brachte uns direkt zum richtigen Terminal. Bei der Buchung konnten wir Schiff und Route angeben – so wurden mögliche Verspätungen gleich mit eingeplant. Bezahlt wurde im Voraus, und der unterschriebene Voucher genügte.</p>
+</details>
+
 [Zur Foto-Galerie](galerie.html)
