@@ -118,7 +118,6 @@ Wir haben es geschafft – als Familie, als Team. Es war nicht immer planbar, ab
 Wir möchten mit diesem Bericht Mut machen: für Menschen, die mit Mobilitätseinschränkingen leben, oder Angehörige begleiten.
 Die Planung war nicht immer einfach - aber das Meer war jede Mühe wert.
 Vielleicht hilft dir unser Erfahrungsbericht, deine eigene Reise ein bisschen leichter zu gestalten.
-Ich werde diesen Bericht noch um Nützliche Informationen zur Organisation einer solchen Reise erweitern.
 
 Tipp zur Barrierefreiheit
 
@@ -160,6 +159,40 @@ Reisebericht zu verfassen und zu veröffentlichen.
 <details>
   <summary><strong>Wie lief unser Transfer mit Shuttle Direct ab?</strong></summary>
   <p>Der Fahrer holte uns am Meininger Hotel in Mestre ab und brachte uns direkt zum richtigen Terminal. Bei der Buchung konnten wir Schiff und Route angeben – so wurden mögliche Verspätungen gleich mit eingeplant. Bezahlt wurde im Voraus, und der unterschriebene Voucher genügte.</p>
+</details>
+
+<details>
+<summary><strong>Benötige ich für Medikamente einen Nachweis?</strong></summary>
+
+Die meisten gängigen Medikamente wie **Ibuprofen**, **Paracetamol**, **ASS** oder auch **Novaminsulfon (z. B. Novalgin)** kannst du problemlos mitnehmen – sie gelten nicht als betäubungsmittelpflichtig und benötigen **keinen ärztlichen Nachweis**, solange sie in haushaltsüblichen Mengen mitgeführt werden.
+
+Anders sieht es bei bestimmten Medikamenten aus, etwa:
+
+- **Opiaten** wie **Morphin, Tilidin, Oxycodon**
+- **Beruhigungsmitteln** wie **Tavor (Lorazepam)** oder **Diazepam**
+- **ADHS-Medikamenten** wie **Methylphenidat (Ritalin)**
+
+Für diese kann ein **ärztliches Attest** oder ein spezielles **BtM-Formular** nötig sein – insbesondere bei Reisen **außerhalb des Schengenraums**. Wer solche Medikamente braucht, sollte sich **vorher genau über die Einreisebestimmungen der angefahrenen Länder informieren**.
+
+Wir selbst hatten einen einfachen Medikamentenplan dabei, wurden aber nie danach gefragt.
+
+</details>
+
+<details>
+<summary><strong>Sollte ich so eine Reise überhaupt wagen?</strong></summary>
+
+Diese Frage ist absolut berechtigt – vor allem, wenn man gesundheitlich eingeschränkt ist oder eine Reise mit betreuungsbedürftigen Angehörigen plant.  
+
+Unsere klare Antwort lautet: **Ja – wenn es irgendwie möglich ist, dann lohnt es sich!**  
+Natürlich braucht es etwas mehr Planung, etwas mehr Geduld, und manchmal muss man kreativ werden. Aber gerade deshalb ist so eine Reise auch etwas ganz Besonderes.
+
+Wir selbst waren überrascht, **wie gut vieles funktioniert hat** – mit etwas Vorbereitung und der richtigen Portion Humor. Und wir wurden oft freundlich unterstützt, sei es von Hotelpersonal, Bahnmitarbeitern oder dem Personal an Bord.
+
+Vielleicht klappt nicht alles perfekt. Aber:  
+> **Was bleibt, sind die Erlebnisse – nicht die Herausforderungen.**
+
+Wenn dich die Reise reizt: Trau dich! Vielleicht ist dein Weg ein anderer, aber er kann trotzdem wunderschön sein.
+
 </details>
 
 [Zur Foto-Galerie](galerie.html)
