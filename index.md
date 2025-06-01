@@ -134,6 +134,7 @@ Ein echter Gänsehautmoment: Wenn die Piloten im Hafen bei voller Fahrt vom klei
 Ich danke, der Physiotherapeutin, die so herzlich meine Freundin betreut. Ohne sie wäre ich nicht auf die Idee gekommen einen 
 Reisebericht zu verfassen und zu veröffentlichen.
 
+<!-- HTML-BLOCK START -->
 
 <a href="galerie.html" style="
   display: block;
@@ -157,3 +158,4 @@ Reisebericht zu verfassen und zu veröffentlichen.
     📸 Bildergalerie öffnen
 </div>
 </a>
+<!-- HTML-BLOCK END -->
