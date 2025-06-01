@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Kontakt</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 2em auto;
+      max-width: 600px;
+      padding: 1em;
+    }
+    input, textarea {
+      width: 100%;
+      padding: 0.5em;
+      margin-top: 0.5em;
+      margin-bottom: 1.2em;
+    }
+    button {
+      padding: 0.5em 1em;
+    }
+  </style>
+</head>
+<body>
+  <h1>📫 Kontakt</h1>
+  <p>Du planst eine ähnliche Reise und hast noch offene Fragen? Ich helfe gerne weiter, wenn ich kann – bitte hab Verständnis, dass ich das <strong>privat</strong> mache und nicht jede Frage sofort beantworten kann.<br><br>
+  <strong>Bitte nutze das Formular nur für ernstgemeinte Anfragen.</strong></p>
+
+  <form action="https://formsubmit.co/armin.engel02@gmail.com" method="POST">
+    <input type="hidden" name="_next" value="https://mrfish844.github.io/reisebericht-costa/danke.html">
+    <label for="name">Name (optional):</label>
+    <input type="text" name="name" id="name">
+
+    <label for="email">E-Mail (optional – falls ich antworten soll):</label>
+    <input type="email" name="email" id="email">
+
+    <label for="message">Deine Nachricht:</label>
+    <textarea name="message" id="message" required></textarea>
+
+    <button type="submit">Nachricht senden</button>
+  </form>
+</body>
+</html>
