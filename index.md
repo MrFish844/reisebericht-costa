@@ -195,7 +195,11 @@ Wenn dich die Reise reizt: Trau dich! Vielleicht ist dein Weg ein anderer, aber 
 
 </details>
 
-[Zur Foto-Galerie](galerie.html)
+
+
+## 🖼️ Fotogalerie 
+
+📷 [Foto-Galerie öffnen](galerie.html)
 
 ---
 
