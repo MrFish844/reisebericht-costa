@@ -134,4 +134,4 @@ Ein echter Gänsehautmoment: Wenn die Piloten im Hafen bei voller Fahrt vom klei
 Ohne den Hinweis der Physiotherapeutin, die meine Freundin betreut, wäre ich nicht auf die Idee gekommen einen Reisebericht zu verfassen. Ich hoffe, ich unterstütze mit diesem Reisebericht ihre Idee, den Menschen Mut zu machen, so eine Reise auch mit Mobilitätseinschränkung zu unternehmen.
 
 
-➡️ [Zur Galerie (Bari-Test)](./Galerie.html)
+➡️ [Zur Galerie](./galerie.html)
