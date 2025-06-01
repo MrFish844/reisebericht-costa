@@ -206,20 +206,6 @@ Wenn dich die Reise reizt: Trau dich! Vielleicht ist dein Weg ein anderer, aber 
     Du planst eine ähnliche Reise und hast noch offene Fragen? Ich helfe gerne weiter, wenn ich kann – bitte hab Verständnis, dass ich das <strong>privat</strong> mache und nicht jede Frage sofort beantworten kann.  
     <br><strong>Bitte nutze das Formular nur für ernstgemeinte Anfragen.</strong>
   </p>
-
-  <form action="https://formsubmit.co/armin.engel02@gmail.com" method="POST">
-    <input type="hidden" name="_captcha" value="false">
-    <input type="hidden" name="_next" value="https://mrfish844.github.io/reisebericht-costa/danke.html">
-
-    <label for="name">Name (optional):</label><br>
-    <input type="text" name="name" style="width: 100%; margin-bottom: 1em;"><br>
-
-    <label for="email">E-Mail (optional – falls ich antworten soll):</label><br>
-    <input type="email" name="email" style="width: 100%; margin-bottom: 1em;"><br>
-
-    <label for="message">Deine Nachricht:</label><br>
-    <textarea name="message" required style="width: 100%; height: 150px; margin-bottom: 1em;"></textarea><br>
-
-    <button type="submit" style="padding: 0.5em 1em;">Nachricht senden</button>
-  </form>
 </section>
+
+[📫 Kontaktformular aufrufen](kontakt.html)
