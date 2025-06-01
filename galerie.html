@@ -1,40 +1,86 @@
-<h2>Bildergalerie</h2><h3>Venedig</h3>
-<img src="bilder/Venedig1.jpeg" width="250">
-<img src="bilder/Venedig2.jpeg" width="250">
-<img src="bilder/Venedig3.jpeg" width="250">
-<img src="bilder/Venedig4.jpeg" width="250">
-<img src="bilder/Venedig5.jpeg" width="250">
-<img src="bilder/Venedig6.jpeg" width="250">
-<img src="bilder/Venedig7.jpeg" width="250">
-<img src="bilder/Venedig8.jpeg" width="250">
-<img src="bilder/Venedig9.jpeg" width="250"><h3>Bari</h3>
-<img src="bilder/Bari2.jpg" width="250">
-<img src="bilder/Bari3.jpg" width="250">
-<img src="bilder/Bari4.jpg" width="250">
-<img src="bilder/Bari5.jpg" width="250"><h3>Korfu</h3>
-<img src="bilder/Korfu1.jpg" width="250">
-<img src="bilder/Korfu2.jpg" width="250">
-<img src="bilder/Korfu3.jpg" width="250">
-<img src="bilder/Korfu4.jpg" width="250">
-<img src="bilder/Korfu6.jpg" width="250"><h3>Katakolon</h3>
-<img src="bilder/Katakolon1.jpg" width="250"><h3>Kotor</h3>
-<img src="bilder/Kotor1.jpg" width="250">
-<img src="bilder/Kotor2.jpg" width="250">
-<img src="bilder/Kotor3.jpg" width="250">
-<img src="bilder/Kotor4.jpg" width="250">
-<img src="bilder/Kotor5.jpg" width="250">
-<img src="bilder/Kotor6.jpg" width="250">
-<img src="bilder/Kotor7.jpg" width="250">
-<img src="bilder/Kotor8.jpg" width="250">
-<img src="bilder/Kotor9.jpg" width="250">
-<img src="bilder/Kotor10.jpg" width="250">
-<img src="bilder/Kotor11.jpg" width="250">
-<img src="bilder/Kotor14.jpg" width="250">
-<img src="bilder/Kotor15.jpg" width="250">
-<img src="bilder/Kotor16.jpg" width="250">
-<img src="bilder/Kotor17.jpg" width="250">
-<img src="bilder/Kotor18.jpg" width="250"><h3>Zadar</h3>
-<img src="bilder/Zadar1.jpg" width="250">
-<img src="bilder/Zadar2.jpg" width="250">
-<img src="bilder/Zadar3.jpg" width="250">
-<img src="bilder/Zadar4.jpg" width="250">
+<!DOCTYPE html><html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Galerie – Costa Deliziosa</title>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/css/lightbox.min.css" rel="stylesheet" />
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 20px;
+      background-color: #f9f9f9;
+    }
+    h2, h3 {
+      margin-top: 40px;
+    }
+    .galerie {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+    .galerie img {
+      width: 48%;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    }
+    @media (max-width: 600px) {
+      .galerie img {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <h2>Fotogalerie</h2>  <h3>Venedig</h3>
+  <div class="galerie">
+    <a href="bilder/Venedig1.jpeg" data-lightbox="venedig"><img src="bilder/Venedig1.jpeg"></a>
+    <a href="bilder/Venedig2.jpg" data-lightbox="venedig"><img src="bilder/Venedig2.jpg"></a>
+    <a href="bilder/Venedig3.jpg" data-lightbox="venedig"><img src="bilder/Venedig3.jpg"></a>
+    <a href="bilder/Venedig4.jpg" data-lightbox="venedig"><img src="bilder/Venedig4.jpg"></a>
+    <a href="bilder/Venedig5.jpg" data-lightbox="venedig"><img src="bilder/Venedig5.jpg"></a>
+    <a href="bilder/Venedig6.jpg" data-lightbox="venedig"><img src="bilder/Venedig6.jpg"></a>
+    <a href="bilder/Venedig7.jpg" data-lightbox="venedig"><img src="bilder/Venedig7.jpg"></a>
+    <a href="bilder/Venedig8.jpg" data-lightbox="venedig"><img src="bilder/Venedig8.jpg"></a>
+    <a href="bilder/Venedig9.jpg" data-lightbox="venedig"><img src="bilder/Venedig9.jpg"></a>
+  </div>  <h3>Bari</h3>
+  <div class="galerie">
+    <a href="bilder/Bari2.jpg" data-lightbox="bari"><img src="bilder/Bari2.jpg"></a>
+    <a href="bilder/Bari3.jpg" data-lightbox="bari"><img src="bilder/Bari3.jpg"></a>
+    <a href="bilder/Bari4.jpg" data-lightbox="bari"><img src="bilder/Bari4.jpg"></a>
+    <a href="bilder/Bari5.jpg" data-lightbox="bari"><img src="bilder/Bari5.jpg"></a>
+  </div>  <h3>Korfu</h3>
+  <div class="galerie">
+    <a href="bilder/Korfu1.jpg" data-lightbox="korfu"><img src="bilder/Korfu1.jpg"></a>
+    <a href="bilder/Korfu2.jpg" data-lightbox="korfu"><img src="bilder/Korfu2.jpg"></a>
+    <a href="bilder/Korfu3.jpg" data-lightbox="korfu"><img src="bilder/Korfu3.jpg"></a>
+    <a href="bilder/Korfu4.jpg" data-lightbox="korfu"><img src="bilder/Korfu4.jpg"></a>
+    <a href="bilder/Korfu6.jpg" data-lightbox="korfu"><img src="bilder/Korfu6.jpg"></a>
+  </div>  <h3>Katakolon</h3>
+  <div class="galerie">
+    <a href="bilder/Katakolon1.jpg" data-lightbox="katakolon"><img src="bilder/Katakolon1.jpg"></a>
+  </div>  <h3>Kotor</h3>
+  <div class="galerie">
+    <a href="bilder/Kotor1.jpg" data-lightbox="kotor"><img src="bilder/Kotor1.jpg"></a>
+    <a href="bilder/Kotor2.jpg" data-lightbox="kotor"><img src="bilder/Kotor2.jpg"></a>
+    <a href="bilder/Kotor3.jpg" data-lightbox="kotor"><img src="bilder/Kotor3.jpg"></a>
+    <a href="bilder/Kotor4.jpg" data-lightbox="kotor"><img src="bilder/Kotor4.jpg"></a>
+    <a href="bilder/Kotor5.jpg" data-lightbox="kotor"><img src="bilder/Kotor5.jpg"></a>
+    <a href="bilder/Kotor6.jpg" data-lightbox="kotor"><img src="bilder/Kotor6.jpg"></a>
+    <a href="bilder/Kotor7.jpg" data-lightbox="kotor"><img src="bilder/Kotor7.jpg"></a>
+    <a href="bilder/Kotor8.jpg" data-lightbox="kotor"><img src="bilder/Kotor8.jpg"></a>
+    <a href="bilder/Kotor9.jpg" data-lightbox="kotor"><img src="bilder/Kotor9.jpg"></a>
+    <a href="bilder/Kotor10.jpg" data-lightbox="kotor"><img src="bilder/Kotor10.jpg"></a>
+    <a href="bilder/Kotor11.jpg" data-lightbox="kotor"><img src="bilder/Kotor11.jpg"></a>
+    <a href="bilder/Kotor14.jpg" data-lightbox="kotor"><img src="bilder/Kotor14.jpg"></a>
+    <a href="bilder/Kotor15.jpg" data-lightbox="kotor"><img src="bilder/Kotor15.jpg"></a>
+    <a href="bilder/Kotor16.jpg" data-lightbox="kotor"><img src="bilder/Kotor16.jpg"></a>
+    <a href="bilder/Kotor17.jpg" data-lightbox="kotor"><img src="bilder/Kotor17.jpg"></a>
+    <a href="bilder/Kotor18.jpg" data-lightbox="kotor"><img src="bilder/Kotor18.jpg"></a>
+  </div>  <h3>Zadar</h3>
+  <div class="galerie">
+    <a href="bilder/Zadar1.jpg" data-lightbox="zadar"><img src="bilder/Zadar1.jpg"></a>
+    <a href="bilder/Zadar2.jpg" data-lightbox="zadar"><img src="bilder/Zadar2.jpg"></a>
+    <a href="bilder/Zadar3.jpg" data-lightbox="zadar"><img src="bilder/Zadar3.jpg"></a>
+    <a href="bilder/Zadar4.jpg" data-lightbox="zadar"><img src="bilder/Zadar4.jpg"></a>
+  </div>  <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/js/lightbox.min.js"></script></body>
+</html>
